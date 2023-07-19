@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fares El Fakhoury</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
 
-<!---><p align="left"> <img src="https://komarev.com/ghpvc/?username=fares-ef&label=Profile%20views&color=0e75b6&style=flat" alt="fares-ef" /> </p>
+<!---><p align="left"> <img src="https://komarev.com/ghpvc/?username=fares-ef&label=Profile%20views&color=0e75b6&style=flat" alt="fares-ef" /> </p> <!--->
 
 - 🔭 I’m currently working on **Java Project**
 
